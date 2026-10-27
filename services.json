@@ -1,0 +1,16 @@
+[
+  { "slug": "wifi", "title": "اینترنت پرسرعت", "icon": "📶" },
+  { "slug": "parking", "title": "پارکینگ", "icon": "🅿️" },
+  { "slug": "jacuzzi", "title": "جکوزی", "icon": "🛁" },
+  { "slug": "terrace", "title": "تراس", "icon": "🌇" },
+  { "slug": "yard", "title": "حیاط اختصاصی", "icon": "🌳" },
+  { "slug": "kitchen", "title": "آشپزخانه کامل", "icon": "🍳" },
+  { "slug": "tv", "title": "تلویزیون هوشمند", "icon": "📺" },
+  { "slug": "ac", "title": "سرمایش و گرمایش", "icon": "❄️" },
+  { "slug": "billiard", "title": "میز بیلیارد", "icon": "🎱" },
+  { "slug": "ps5", "title": "کنسول بازی PS5", "icon": "🎮" },
+  { "slug": "sound", "title": "سیستم صوتی", "icon": "🔊" },
+  { "slug": "sanitized", "title": "ضدعفونی هتلی", "icon": "🧼" },
+  { "slug": "elevator", "title": "آسانسور", "icon": "🛗" },
+  { "slug": "washer", "title": "ماشین لباسشویی", "icon": "🧺" }
+]

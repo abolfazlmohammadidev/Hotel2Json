@@ -1,0 +1,7 @@
+[
+  { "slug": "abadgaran", "title": "آبادگران (تراس و ویو شهر)", "areas": ["abadgaran"] },
+  { "slug": "hashemieh", "title": "هاشمیه (دوبلکس و ویلایی)", "areas": ["hashemieh"] },
+  { "slug": "haft-tir", "title": "هفت تیر (لوکس و بیلیارد)", "areas": ["haft-tir"] },
+  { "slug": "student", "title": "دانشجو و دانش‌آموز", "areas": ["daneshjoo", "daneshamoz"] },
+  { "slug": "jacuzzi", "title": "واحدهای جکوزی‌دار", "service": "jacuzzi" }
+]
